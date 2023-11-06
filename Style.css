@@ -1,4 +1,7 @@
 body{
 	background-color:lightgoldenrodyeyellow;
-	color:blue;
+	color:darkmagenta;
+}
+h1,h2{
+	text-align:center;
 }
